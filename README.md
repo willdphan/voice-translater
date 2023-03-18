@@ -1,4 +1,4 @@
-# Audio Voice Translator
+# AI Voice Translator
 
 This repository uses `PyAudio`, `langdetect`, and `googletrans` to generate translated audio. 
 
