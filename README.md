@@ -1,12 +1,12 @@
 # Audio Voice Translator
 
-This repository uses `PyAudio`, `langdetect`, and `googletrans` to generate translated audio.
+This repository uses `PyAudio`, `langdetect`, and `googletrans` to generate translated audio. 
 
 ## Installation
 
 To get started, you'll need Python 3.7 or newer. To install pyaudio, use the commands below.
 
-# on MacOS using Homebrew (https://brew.sh/)
+# on MacOS using [Homebrew](https://brew.sh/)
     brew install portaudio
     pip install pyaudio
 
